@@ -33,7 +33,11 @@ The corrected application was tested under the following scenarios:
 * **Forecast Testing**: Verified that the 24-hour forecast scrolls smoothly horizontally and displays unique hourly temperatures, and that the 5-day forecast grid correctly renders day names, icons, conditions, and high/low temperatures.
 * **Sun & Moon / Additional Details Testing**: Confirmed that sunrise, sunset, moonrise, moonset, moon phase, humidity, wind speed/direction, pressure, visibility, and UV index sections display properly formatted data.
 
-## 5. Screenshot
+## 5. Screenshots
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/6020035e-0c92-4ce4-a044-a1b7173806f1" />
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/ff25f351-9f3e-47e7-890d-10ad11cfd3c1" />
+
+
 
 *(Note: BlueStacks App Player encountered unexpected loading and resolution issues during testing, so Expo Snack was utilized to successfully verify and capture the completed interface performance.)*
 
